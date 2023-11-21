@@ -1,7 +1,7 @@
 public class Camera {
         private int x;
         private int y;
-        private int b= 0;
+
 
         public Camera(int x, int y) {
             this.x = x;
