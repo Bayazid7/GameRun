@@ -1,6 +1,7 @@
 public class Camera {
         private int x;
         private int y;
+        private int b;
 
         public Camera(int x, int y) {
             this.x = x;
@@ -10,7 +11,6 @@ public class Camera {
         public int getX() {
             return x;
         }
-        // test
         public int getY() {
             return y;
         }
