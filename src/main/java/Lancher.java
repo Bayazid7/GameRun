@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Lancher {
+public class Lancher {
+    public static void main(String[] args){
+       Main.main(args);
+    }
 }
