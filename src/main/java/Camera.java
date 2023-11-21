@@ -10,7 +10,7 @@ public class Camera {
         public int getX() {
             return x;
         }
-
+        // test
         public int getY() {
             return y;
         }

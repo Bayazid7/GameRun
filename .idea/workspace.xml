@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7dee8f-ed0a-42df-9bf3-e89c91f61f68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GameScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameScene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lancher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lancher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/jeuxrannur/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/jeuxrannur/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="6e7dee8f-ed0a-42df-9bf3-e89c91f61f68" name="Changes" comment="Seance1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +65,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700580770447</updated>
-      <workItem from="1700580771464" duration="4585000" />
+      <workItem from="1700580771464" duration="4855000" />
     </task>
+    <task id="LOCAL-00001" summary="Seance1">
+      <option name="closed" value="true" />
+      <created>1700585597087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700585597087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seance1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seance1" />
   </component>
 </project>
