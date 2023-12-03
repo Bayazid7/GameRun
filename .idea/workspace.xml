@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7dee8f-ed0a-42df-9bf3-e89c91f61f68" name="Changes" comment="ttt">
+    <list default="true" id="6e7dee8f-ed0a-42df-9bf3-e89c91f61f68" name="Changes" comment="ghdjj">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxproject/model/StaticThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AnimatedThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnimatedThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameScene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lancher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StaticThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StaticThing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/bayazid/Downloads/ProjetRunner-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Lancher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lancher" />
@@ -70,6 +82,12 @@
       <updated>1700580770447</updated>
       <workItem from="1700580771464" duration="4855000" />
       <workItem from="1700585729017" duration="408000" />
+      <workItem from="1700586151736" duration="338000" />
+      <workItem from="1700636786321" duration="832000" />
+      <workItem from="1701241318314" duration="386000" />
+      <workItem from="1701241755867" duration="1960000" />
+      <workItem from="1701615478500" duration="67000" />
+      <workItem from="1701615747554" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="Seance1">
       <option name="closed" value="true" />
@@ -95,16 +113,45 @@
       <option name="project" value="LOCAL" />
       <updated>1700585991845</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test1">
+      <option name="closed" value="true" />
+      <created>1700586325668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700586325668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ghdjj">
+      <option name="closed" value="true" />
+      <created>1700586441165</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700586441165</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seance1" />
     <MESSAGE value="test" />
     <MESSAGE value="ttt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ttt" />
+    <MESSAGE value="test1" />
+    <MESSAGE value="ghdjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghdjj" />
   </component>
 </project>
